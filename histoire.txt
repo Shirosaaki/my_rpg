@@ -1,0 +1,15 @@
+La Nainventure
+
+Objectif final : Trouver le marteau légendaire
+
+Type de combat : tour par tour
+
+Dans un monde où les nains sont une des rares espèces survivantes au grand remplacement des humains,
+ils ont décidé de ce replier dans la dernière mais également la première mine naine : Silberhorn...
+
+Les nains vivaient ainsi leur vie loin du danger. Cependant un jour, la cupidité des humains les ont amené à s'en prendre
+aux nains. Lors de leur tentative, les humains avait sous-estimé les nains et ces derniers ont ainsi pu vaincre les humains...
+
+Mais pour combien de temps ? Les nains ont certes gagne, mais ils ont subit de très grandes pertes...
+Les humains risques de revenir et qui sait avec quelles armées... ? Le seul moyen pour que les nains n'aient plus peurs
+des humains, c'est de retrouver le marteau légendaire perdu au fin fond des mines.
