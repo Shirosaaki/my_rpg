@@ -1,7 +1,7 @@
 # Exclude specific files or directories from language detection
 map2 linguist-detectable=false
 *.txt linguist-detectable=false
-assets/* linguist-detectable=false
+assets/maps/* linguist-detectable=false
 
 # Set the primary language of the repository
 *.c linguist-language=C
