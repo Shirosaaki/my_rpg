@@ -1,1 +1,3 @@
-* linguist-language=C
+map2 linguist-detectable=false
+*.txt linguist-detectable=false
+assets/* linguist-detectable=false
